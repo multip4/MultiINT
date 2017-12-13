@@ -7,4 +7,4 @@ https://github.com/opennetworkinglab/onos/tree/master/pipelines
 
 More information on each commit can be found in the following URL: 
 
-https://gerrit.onosproject.org/#/q/status:merged+project:onos+branch:master+topic:int.p4
+https://github.com/opennetworkinglab/onos/commits/master/pipelines?author=JonghwanHyun
